@@ -3,7 +3,7 @@
 ## Objective
 To analyze sales performance over time and identify trends, high-performing products, and market-wise insights to support business decision-making.
 
-# Tools & Technologies
+## Tools & Technologies
 - Power BI
 - SQL
 - Excel
@@ -21,7 +21,7 @@ To analyze sales performance over time and identify trends, high-performing prod
 - Seasonal spikes noticed during festive months.
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Business Impact
 This dashboard helps management quickly understand sales patterns and make data-driven decisions for marketing and inventory planning.
